@@ -1,0 +1,16 @@
+# Dify 源码(由 setup-dify.sh 克隆,不入库)
+deploy/dify/
+
+# 环境配置(含密钥)
+.env
+
+# 备份产物
+backups/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+
+# 个人成长/副业内容(仅本地,不公开)
+knowledge/20-成长/
+knowledge/30-副业/
